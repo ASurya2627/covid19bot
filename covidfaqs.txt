@@ -1,0 +1,398 @@
+
+
+1.Which documents should I carry with me for vaccination?
+
+2.How can beneficiaries with no access to smart phones or computers manage online registration?
+
+3.What if I cannot go for vaccination on the date of appointment? Can I reschedule my appointment?
+
+4.Can I choose the vaccine?
+
+5.How much time does the CoWIN portal take in issue resolution?
+
+6.How many people can be registered in the CoWIN portal through one mobile number?
+
+7.What are the options if one citizen is aged 45 or above and other is aged 18 or above?
+
+8.Where can I download vaccination certificate from?
+
+9.When can I download my International Travel Certificate?
+
+10.Can I get vaccinated with 2nd dose in a different State/District?
+
+11.When I click on Vaccination Center it shows 'No appointments are available in this period'. What to do?
+
+12.Is vaccination free at all Vaccination Centres?
+
+13.Is there a mobile app that needs to be installed to register for vaccination?
+
+14.Where can I apply for International Travel Certificate?
+
+15.Is there any registration charges to be paid?
+
+16.Can you only access the CoWIN website and register to get your vaccination certificate a limited number of times in a day?
+
+17.Why do I need a vaccination certificate?
+
+18.Where can I raise an issue/query related to CoWIN?
+
+19Where will I receive confirmation of date and time of vaccination?
+
+20.I have taken the first dose of Covid Vaccination through on-spot registration. When I tried to book a second dose online, it asked me to schedule an appointment for the first dose. What to do?
+
+21.Is online registration mandatory for Covid-19 vaccination?
+
+22.What are the kinds of issues that can be raised on CoWIN?
+
+23.Can I download appointment slip?
+
+24.Whom do I contact in case of side effects from vaccination?
+
+25.Is it necessary to take 2nd dose of vaccination?
+
+26.How can I find the nearest Vaccination Center?
+
+27.When I click on Vaccination Center it shows 'No appointments are available in this period'. What to do?
+
+28.Is vaccination free at all Vaccination Centres?
+
+29.Is there a mobile app that needs to be installed to register for vaccination?
+
+30.Where can I apply for International Travel Certificate?
+
+31.Is there any registration charges to be paid?
+
+32.Can you only access the CoWIN website and register to get your vaccination certificate a limited number of times in a day?
+
+33.Why do I need a vaccination certificate?
+
+34.Where can I raise an issue/query related to CoWIN?
+
+35.Where will I receive confirmation of date and time of vaccination?
+
+36.I have taken the first dose of Covid Vaccination through on-spot registration. When I tried to book a second dose online, it asked me to schedule an appointment for the first dose. What to do?
+
+37.Is online registration mandatory for Covid-19 vaccination?
+
+38.What are the kinds of issues that can be raised on CoWIN?
+
+39.Can I download appointment slip?
+
+40.Whom do I contact in case of side effects from vaccination?
+
+41.Is it necessary to take 2nd dose of vaccination?
+
+42.How can I find the nearest Vaccination Center?
+
+43.Can I check the price of the vaccine?
+
+44.Where can I download my International Travel Certificate from?
+
+45.Can I book an appointment for vaccination in the CoWIN portal?
+
+46.Who is responsible for providing the vaccination certificate?
+
+47.After trying once do you need to wait certain amount of time to try again? In other words, can you only do it once every hour or so.
+
+48.Can I get vaccination without appointment?
+
+49.Whom can I contact if I have some problems related to my online registration of appointment?
+
+50.Can I travel to all the countries with International Travel Certificate?
+
+51.Can I register for vaccination without Aadhaar Card?
+
+52.I have registered myself on CoWIN portal. However, I am not able to make any booking as I do not see any vaccination facility near my location? What should I do?
+
+53.Where can I register for COVID-19 vaccination?
+
+54.Where do I raise issues not listed under the 5 categories mentioned above?
+
+55.Why do I need an International Travel Certificate?
+
+56.When should I take the 2nd dose of vaccination?
+
+57.Do I have an option for cancellation of appointment?
+
+58.What precautions should I take at the time of 2nd dose vaccination?
+
+59.Who can raise an issue in the CoWIN portal?
+
+60.Can I check the vaccine being administered at each Vaccination Center?
+
+61.How can I access COVID Vaccination Certificate from DigiLocker?
+
+62.Which age groups can register for vaccination on the CoWIN portal?
+
+63.What is the 4-digit secret code on the Account Details page of self-registration portal on CoWIN?
+
+64.Will my 2nd dose appointment be automatically scheduled by CoWIN system?
+
+65.Can I apply for International Travel Certificate?
+
+66.What should I do if I get sick or someone in my house gets sick?
+
+67.What are the recommendations for someone who has symptoms of COVID-19?
+
+68.What is contact tracing?
+
+69.When should I seek emergency care if I have COVID-19?
+
+70.Can animals carry the virus that causes COVID-19 on their skin or fur?
+
+71.Does mask use help determine if someone is considered a close contact?
+
+72.Can wild animals spread the virus that causes COVID-19 to people?
+
+73.What is community spread?
+
+74.What is multisystem inflammatory syndrome in children (MIS-C)?
+
+75.Who is considered a close contact of someone with COVID-19?
+
+76.Should I use soap and water or hand sanitizer to protect against COVID-19?
+
+77.Should I be tested for a current infection?
+
+78.Can I get COVID-19 from my pets or other animals?
+
+79.Can someone test negative and later test positive on a viral test for COVID-19?
+
+80.What are the symptoms and complications that COVID-19 can cause?
+
+81.How does the virus spread?
+
+82.I have COVID-19. How do I tell the people I was around?
+
+83.What should I do if my pet gets sick and I think it’s COVID-19?
+
+84.What is the risk of my child becoming sick with COVID-19?
+
+85.What will happen with my personal information during contact tracing?
+
+86.Is at-home specimen collection or testing available?
+
+87.How can I protect myself?
+
+88.If I am a close contact, will I be tested for COVID-19?
+
+89.Can I use hand sanitizer on pets?
+
+90.What is an emergency use authorization and how is it being used to respond to COVID-19?
+
+91.Is there a shortage of personal protective equipment (PPE) such as gloves, masks, and N95 respirators or of ventilators?
+
+92.What do I need to know about the temporary policy for food labeling of minor ingredient changes during the COVID-19 public health emergency if I have food allergies?
+
+93.Are there any FDA-approved drugs (medicines) for COVID-19?
+
+94.Are there any at-home tests for COVID-19?
+
+95.Do any of the COVID-19 vaccines authorized for emergency or approved for use by FDA contain a live form of the SARS-CoV-2 virus (the virus that causes COVID-19 disease)?
+
+96.If I vape tobacco or nicotine am I at risk for complications from COVID-19?
+
+97.Should food workers who are ill stay home?
+
+98.Where are infusions of monoclonal antibody treatments available?
+
+99.Is bamlanivimab, a monoclonal antibody, FDA-approved or authorized to treat COVID-19?
+
+100.What is the FDA doing to respond to the COVID-19 pandemic?
+
+101.Can I prevent or treat COVID-19 by using disinfectant sprays, wipes, or liquids on my skin? Can I inject, inhale, or ingest (swallow) disinfectants to prevent or treat COVID-19?
+
+102.Who should I contact if I have questions about medical devices or need more information?
+
+103.My pet has health problems and goes to the vet regularly for treatment. Should I be doing anything different to manage their health during the COVID-19 outbreak?
+
+104.What should I do with hand sanitizer that contains methanol (wood alcohol) or 1-propanol?
+
+105.Can I get the coronavirus from food, food packaging, or food containers and preparation area?
+
+106.Can I get COVID-19 from my pet or other animals?
+
+107.Should I take ivermectin to prevent or treat COVID-19?
+
+108.Should I purchase personal protective equipment such as facemasks or N95 respirators for me and my family?
+
+110.What is convalescent plasma and why is it being investigated to treat COVID-19?
+
+111.Am I currently eligible for a COVID-19 vaccine booster dose, and if so, which one?
+
+112.What do I do if I get a rash or other reaction to hand sanitizer?
+
+113.What are the most important things I need to know to keep myself and others safe when I go to the grocery store during the pandemic?
+
+114.Is Olumiant (baricitinib) approved by the FDA to treat COVID-19?
+
+115.Do COVID-19 tests check for the delta and other variants?
+
+116.How do I report COVID-19 vaccine side effects?
+
+117.Can pets carry the virus that causes COVID-19 on their skin or fur?
+
+118.Can SARS-CoV-2, the virus that causes COVID-19, be transmitted by blood transfusion?
+
+119.Is an approval (or biologics license approval) different from an emergency use authorization? Does it change the availability of COVID-19 vaccines?
+
+120.What is the FDA doing to respond to foodborne illnesses during the COVID-19 pandemic?
+
+121.Should I take chloroquine phosphate used to treat disease in aquarium fish to prevent or treat COVID-19?
+
+122.Should I wear a face covering or mask when I go out in public?
+
+123.How is the FDA helping ensure that ventilators are available for patients who need them?
+
+124.How is the FDA helping ensure that ventilators are available for patients who need them?
+
+125.Does COVID-19 present a risk to the safety of the nation’s blood supply?
+
+126.Products online claim to prevent or treat COVID-19. Where can I report websites selling products with fraudulent claims?
+
+127.Is the U.S. animal food supply safe?
+
+128.What is the difference between the types of tests available for SARS-CoV-2?
+
+129.Will there be food shortages?
+
+130.What does it mean to be an FDA-approved drug?
+
+131.How important is it to make sure approved vaccines are available versus other public health measures? Do you have the resources to do this quickly?
+
+132.Are the monoclonal antibodies, bamlanivimab and etesevimab, FDA-approved to treat COVID-19?
+
+133.Will Miracle Mineral Solution (MMS) cure COVID-19?
+
+134.What should I do if I think my pet has the virus that causes COVID-19?
+
+135.Will there be drug shortages due to COVID-19?
+
+136.Am I at risk for serious complications from COVID-19 if I smoke cigarettes?
+
+137.Can I get COVID-19 from a food worker handling my food?
+
+139.Is the monoclonal antibody Actemra (tocilizumab) approved for the treatment of COVID-19?
+
+140.Am I at risk for COVID-19 from taking FDA-approved drugs made outside the United States?
+
+141.How are people tested for COVID-19?
+
+142.Can the FDA help me get a COVID-19 vaccine?
+
+143.Are there any approved products that can prevent or treat COVID-19 in animals?
+
+144.What is the risk of using a hand sanitizer that contains methanol (wood alcohol) or 1-propanol?
+
+145.Are food products produced in the United States or other countries affected by COVID-19 a risk for the spread of COVID-19?
+
+146.What is a monoclonal antibody?
+
+147.What treatments are available for COVID-19?
+
+148.I built a DIY ventilator using instructions I found on the internet. May I sell it?
+
+149.Can COVID-19 be transmitted through human cells, tissues, or cellular and tissue-based products (HCT/Ps)?
+
+150.What is a biological medical product or a biologic?
+
+151.How long does it take to approve COVID-19 vaccines?
+
+152.What is the FDA’s role in regulating animal drugs, animal food (including pet food), and animal medical devices?
+
+153.Are antibiotics effective in preventing or treating COVID-19?
+
+154.Is there a test for COVID-19?
+
+155.How does FDA ensure the quality of COVID-19 vaccines and other medical products authorized for emergency use in the United States?
+
+156.What animal species can get COVID-19?
+
+157.Where can I buy hand sanitizer? Can I make my own hand sanitizer?
+
+158.Is there a test for COVID-19 in pets? If so, has it been approved by the FDA?
+
+159.Will there be animal food shortages?
+
+160.Is Veklury (remdesivir) approved by the FDA to treat COVID-19?
+
+161.How can I prevent COVID-19?
+
+162.Can 3D printing be used to make PPE?
+ 
+163.Why aren’t blood centers testing donors for SARS-CoV-2?
+
+164.What is the FDA’s role in approving vaccines and what is being done to produce a COVID-19 vaccine?
+
+165.Should food facilities (grocery stores, manufacturing facilities, restaurants, etc.) perform any special cleaning or sanitation procedures for COVID-19?
+
+166.Is hand sanitizer effective against COVID-19?
+
+167.Are chloroquine phosphate or hydroxychloroquine sulfate approved by the FDA to treat COVID-19?
+
+168.When will other diagnostic tests for COVID-19 be authorized?
+
+169.Are egg products used in COVID-19 vaccines?
+
+170.Are there going to be any animal drug shortages due to the COVID-19 outbreak?
+
+171.What should people do if they have been exposed to hand sanitizer with potential methanol or 1-propanol contamination?
+
+172.Is the U.S. food supply safe?
+
+173.Is REGEN-COV, the monoclonal antibodies casirivimab and imdevimab administered together, FDA-approved to treat COVID-19?
+
+174.Does spraying people with disinfectant lower the spread of COVID-19?
+
+175.Why is the FDA providing flexibility to food manufacturers, under limited circumstances during the COVID-19 public health emergency, to make minor changes in ingredients without reflecting those changes on the package label?
+
+176.What is the FDA’s role in helping to ensure the safety of the human and animal food supply?
+
+177.I recently recovered from COVID-19, can I donate convalescent plasma?
+
+178.Am I currently eligible for a third dose of Pfizer-BioNTech COVID-19 Vaccine or Moderna COVID-19 vaccine if I’m immunocompromised?
+
+179.Can my pet get COVID-19 from me or other people?
+
+180.What is the FDA doing to protect people from products making fraudulent COVID-19 claims?
+
+181.Who should I contact with drug-related questions?
+
+182.What is the FDA’s role in regulating potential treatments during a public health emergency?
+
+183.Are there any vaccines or other medical products available to prevent COVID-19?
+
+184.Should I get my pet tested for COVID-19?
+
+185.Why has the FDA placed alcohol-based hand sanitizers from Mexico on import alert?
+
+186.How does the COVID-19 virus spread?
+
+187.Do the COVID-19 vaccines work against the new variants?
+
+188.I’ve heard there are variants of the virus that causes COVID-19. What does this mean?
+
+189.What is ‘Long COVID’? Can children be affected?
+
+190.Are any of these new COVID-19 variants more dangerous for children?
+
+191.Does COVID-19 affect children?
+
+192.I’ve been vaccinated, do I still need to get tested for COVID-19?
+
+193.What should I do if my child has symptoms of COVID-19?
+
+194.How severe is COVID-19 infection?
+
+195.How does the virus spread?
+
+196.When is a person infectious?
+
+197.Where do coronaviruses come from?
+
+198.What is SARS-CoV-2? What is COVID-19?
+
+
+
+
+
